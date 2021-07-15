@@ -9,4 +9,4 @@ available in the literature. The proposed methodology can be used for online det
 material dependent parameters and friction in ultrasonic-vibration assisted turning.
 
 
-![Total Deformation](https://github.com/srivastav-ayush/socket-sense/blob/main/Total%20Deformation.jpg)
+![Total Deformation](https://github.com/srivastav-ayush/inverse-uvat/blob/main/UVAT.jpg)
