@@ -9,7 +9,7 @@ The inverse model predictions are in reasonable agreement with the experimental 
 available in the literature. The proposed methodology can be used for online determination of
 material dependent parameters and friction in ultrasonic-vibration assisted turning.
 
-## YouTube video demostrating the code
-Watch the folowing video to see how to use the code with the steering geometry designed.<br/>
+## Conference Presentation (7 mins)
+International Conference on Engineering Vibration (ICoEV 2020) at University of Aberdeen, Scotland, UK: Ayush Srivastav and Vinod Yadav. “Material Dependent Parameters and Friction in UV Assisted Turning by Inverse Modelling”. (Virtual Presentation)<br/>
 <br/>
 [![Watch the video](https://img.youtube.com/vi/rXrfaDEbyVQ/hqdefault.jpg)](https://youtu.be/rXrfaDEbyVQ)
